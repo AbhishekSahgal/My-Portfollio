@@ -1,5 +1,9 @@
-
-
+html{
+  scroll-behavior: smooth;
+}
+nav{
+  position:fixed;
+}
 
 
 a{
@@ -137,10 +141,10 @@ a{
    color:orange;
  }
  .fa-facebook:hover{
-  color: blue;
+  color: lightseagreen;
 }
 .fa-github:hover{
-  color: black;
+  color: darkslategrey;
 }
 .fa-youtube:hover{
   color: red;
