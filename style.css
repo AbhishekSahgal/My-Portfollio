@@ -149,3 +149,22 @@ a{
 .fa-youtube:hover{
   color: red;
 }
+.img-shadow2{
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  padding: 9px;
+  border-radius:2px;
+  cursor: pointer;
+}
+.img-shadow2:hover{
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(255, 251, 251, 0.22) 0px 15px 12px;
+}
+.heading{
+  padding-top:10px;
+  font-family: Baskerville;
+  font-weight: bolder;
+}
+#gallery-modal .gallery-img{
+  width: 100%;
+}
+
+
